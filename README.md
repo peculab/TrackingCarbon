@@ -5,7 +5,7 @@ Please follow the steps below to install and configure this project :
 
 **STEP 1:** 
 ```
-git clone https://github.com/Manchien/Tahrd-carbon.git
+git clone https://github.com/peculab/TrackingCarbon.git
 ```
 
 **STEP 2:** Setup virtual environment and install dependencies using `pip install -r requirements.txt`
