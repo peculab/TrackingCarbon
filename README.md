@@ -45,4 +45,4 @@ python graph.py
 3. Open a web browser and navigate to the address in the command line (usually http://127.0.0.1:8050/) to view the dashboard.
 
 ### Examples of how to use the tool
-> [What Addresses are Potential Fraud Accounts?](https://github.com/Manchien/Tahrd-carbon/blob/main/docs/example.pdf)
+> [What Addresses are Potential Fraud Accounts?](https://github.com/peculab/TrackingCarbon/edit/main/docs/example.pdf)
